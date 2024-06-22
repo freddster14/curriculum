@@ -29,10 +29,7 @@ const server = {
   people: [
     {
       name: "Odin",
-      age: 20,
-    },
-    {
-      name: "Thor",
+    
       age: 35,
     },
     {
